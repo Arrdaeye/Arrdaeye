@@ -4,6 +4,16 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+
+echo "# Root" >> README.md 
+git init 
+git add README.md 
+git commit -m "commit แรก" 
+git branch -M main 
+git remote add origin https://github.com/Arrdaeye/Root.git
+ git push - คุณมาหลัก
+
+https://github.com/Arrdaeye/Arrdaeye/tree/main
 <!---
 Arrdaeye/Arrdaeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
