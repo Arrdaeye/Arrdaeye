@@ -11,7 +11,7 @@ git add README.md
 git commit -m "commit แรก" 
 git branch -M main 
 git remote add origin https://github.com/Arrdaeye/Root.git
- git push - คุณมาหลัก
+ git push - คุณมาหลัก.
 
 https://github.com/Arrdaeye/Arrdaeye/tree/main
 <!---
